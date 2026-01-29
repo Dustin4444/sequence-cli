@@ -5,3 +5,4 @@ dist
 *.js
 /tx-manager
 !removeJsFiles.js
+*.swp
